@@ -8,3 +8,4 @@ Solutions posted. Results are gathered in the Jupyter notebooks. Results in pick
 
 Solutions posted. Results are gathered in the Jupyter notebook. Results and data can be accessed via: https://1drv.ms/f/s!AusdahEwaw88hq9bMBqnkN13eEpDEQ in directories ./data/ and ./results/.
 
+Given the extracted features in Problem set 1, results are close to random, i.e. not accurate, neither informative. However, the pipeline of how to solve problems is well specified, with all plots and printed results.
